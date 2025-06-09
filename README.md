@@ -61,13 +61,6 @@ I'm a passionate **Computer Science student** at the University of Minnesota, Tw
 
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=adhithimaran&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
-
-<div align="center">
-  
 **Thanks for stopping by! Always excited to collaborate on innovative projects and discuss the latest in tech! 🚀**
 
 </div>
