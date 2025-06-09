@@ -49,18 +49,6 @@ I'm a passionate **Computer Science student** at the University of Minnesota, Tw
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Google Maps API](https://img.shields.io/badge/-Google%20Maps%20API-4285F4?style=flat-square&logo=google-maps&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adhithimaran&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhithimaran&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhithimaran&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-
 ## 🤝 Let's Connect!
 
 <div align="center">
