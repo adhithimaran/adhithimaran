@@ -71,8 +71,6 @@ I'm a passionate **Computer Science student** at the University of Minnesota, Tw
 
 </div>
 
-## 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
