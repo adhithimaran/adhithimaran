@@ -5,8 +5,8 @@ I'm a passionate **Computer Science student** at the University of Minnesota, Tw
 
 - 🎓 Currently pursuing B.S. in Computer Science
 - 🏆 Dean's List student with 3.58 GPA
-- 🔭 I'm currently working on **E-Commerce Orders Simulation** 
-- 🌱 I'm currently learning **AI/Machine Learning**
+- 🔭 I'm currently working on a **Priority Allocator** Web App
+- 🌱 I'm currently learning **AI/Machine Learning** && **Prompt Engineering with LLaMA-2**
 - 👯 I'm looking to collaborate on **web applications** and **blockchain projects**
 - 💬 Ask me about **full-stack development**, **data visualization** and **AI/ML**
 - 📫 How to reach me: **adhithimaran@gmail.com**
