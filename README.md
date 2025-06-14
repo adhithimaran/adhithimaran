@@ -10,7 +10,6 @@ I'm a passionate **Computer Science student** at the University of Minnesota, Tw
 - 👯 I'm looking to collaborate on **web applications** and **blockchain projects**
 - 💬 Ask me about **full-stack development**, **data visualization** and **AI/ML**
 - 📫 How to reach me: **adhithimaran@gmail.com**
-- ⚡ Fun fact: I love playing instruments, painting and calligraphy - bringing creativity to both digital and traditional art forms!
 
 ## 🛠️ Tech Stack
 
