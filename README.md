@@ -15,6 +15,6 @@ I'm a passionate **Computer Science student** at the University of Minnesota, Tw
 
 
 ---
-**Thanks for stopping by!
+**Thanks for stopping by!**
 
 </div>
