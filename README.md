@@ -8,7 +8,6 @@ I'm a passionate **Computer Science student** at the University of Minnesota, Tw
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adhithimaran)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adhithimaran)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhithimaran@gmail.com)
 
 </div>
