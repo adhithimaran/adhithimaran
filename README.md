@@ -1,7 +1,7 @@
 # Hey there! I'm Adhithi Maran
 
 ## About Me
-I'm a passionate **Computer Science student** at the University of Minnesota, Twin Cities, with a love for building innovative web applications and exploring emerging technologies. I enjoy tackling complex problems and turning ideas into reality through programming.
+I'm a passionate **Computer Science student** at the University of Minnesota - Twin Cities, with a love for building innovative web applications and exploring emerging technologies. I enjoy tackling complex problems and turning ideas into reality through programming.
 
 ## Let's Connect!
 
