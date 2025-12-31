@@ -1,19 +1,14 @@
-# 👋🏼 Hey there! I'm Adhithi Maran
+# 👋🏼 Hi there! I'm Adhithi
 
 ## About Me
-I'm a passionate **Computer Science student** at the University of Minnesota - Twin Cities, with a love for building innovative web applications and exploring emerging technologies. I enjoy tackling complex problems and turning ideas into reality through programming.
+I'm a passionate **Computer Science student** at the University of Minnesota - Twin Cities, graduating in Spring 2026, with a love for software development and exploring emerging technologies. I enjoy tackling complex problems and turning ideas into reality through programming. I'm currently working on a full-stack task scheduling web application using Next.js.
 
-## Let's Connect!
+## How to Reach Me
+email: adhithimaran@gmail.com
+linkedin: https://www.linkedin.com/in/adhithimaran
+handshake: https://umn.joinhandshake.com/profiles/adhithimaran
+
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adhithimaran)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhithimaran@gmail.com)
 
-</div>
-
-
----
-**Thanks for stopping by!**
-
-</div>
