@@ -1,14 +1,60 @@
-# 👋🏼 Hi there! I'm Adhithi
+<div align="center">
 
-## About Me
-I'm a passionate **Computer Science student** at the University of Minnesota - Twin Cities, graduating in Spring 2026, with a love for software development and exploring emerging technologies. I enjoy tackling complex problems and turning ideas into reality through programming. I'm currently working on a full-stack task scheduling web application using Next.js.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1000&color=F7A08F&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Adhithi+%F0%9F%91%8B%F0%9F%8F%BC" alt="Typing SVG" />
 
-## How to Reach Me
-email: adhithimaran@gmail.com
-linkedin: https://www.linkedin.com/in/adhithimaran
-handshake: https://umn.joinhandshake.com/profiles/adhithimaran
+### Full-Stack Developer | CS @ UMN
 
+<p align="center">
+  <a href="mailto:adhithimaran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/adhithimaran"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://umn.joinhandshake.com/profiles/adhithimaran"><img src="https://img.shields.io/badge/Handshake-ED4D48?style=for-the-badge&logo=handshake&logoColor=white" alt="Handshake"></a>
+</p>
+
+</div>
+
+---
+
+## 🎓 About Me
+
+🏫 **Computer Science Student** at the University of Minnesota - Twin Cities  
+📅 Graduating **May 2026**  
+💼 Undergraduate Teaching Assistant @ **CSE Dept**  
+
+I enjoy building web applications and solving real-world problems through code. I'm currently working on an intelligent task scheduling application.
+
+---
+
+## 🔭 What I'm Working On
+
+- 📅 **Intelligent Productivity Assistant** - Full-stack Next.js app with AI-powered scheduling algorithms and calendar integrations
+- 🎓 **Teaching** - Helping students learn how to program and learn the basics of coding
+
+---
+
+## 🛠️ Technology Stack
+```text
+Languages      Python • Java • JavaScript • TypeScript • C/C++ • SQL • OCaml
+Frontend       React • Next.js • Angular • Tailwind CSS • HTML/CSS
+Backend        Node.js • Express.js • PHP • RESTful APIs
+Databases      PostgreSQL • MySQL • MongoDB
+Tools          Git/GitHub • Docker • WordPress • Postman • JIRA
+```
+
+---
+
+## 💼 Experience Highlights
+
+- 🔧 Built **custom WordPress plugins** for B2B marketplace, reducing bugs by 30%
+- 📊 Developed **geospatial e-commerce platform** visualizing 1000+ orders with routing optimization
+
+---
+
+## 📫 Let's Connect!
 
 <div align="center">
+
+I'm always interested in collaborating on innovative projects, discussing emerging technologies, or exploring new opportunities. Please feel free to reach out!
+
+</div>
   
 
