@@ -44,7 +44,7 @@ Tools          Git/GitHub • Docker • WordPress • Postman • JIRA
 
 ## 💼 Experience Highlights
 
-- 🔧 Built **custom WordPress plugins** for B2B marketplace, reducing bugs by 30%
+- 🔧 Built **custom WordPress plugins** for a financial consulting company
 - 📊 Developed **geospatial e-commerce platform** visualizing 1000+ orders with routing optimization
 
 ---
