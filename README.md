@@ -14,19 +14,19 @@
 
 ---
 
-## 🎓 About Me
+## 🎓 A Little Bit About Me
 
 🏫 **Computer Science Student** at the University of Minnesota - Twin Cities  
 📅 Graduating **May 2026**  
 💼 Undergraduate Teaching Assistant @ **CSE Dept**  
 
-I enjoy building web applications and solving real-world problems through code. I'm currently working on an intelligent task scheduling application.
+Outside of class, I enjoy building web applications and solving real-world problems through code.
 
 ---
 
 ## 🔭 What I'm Working On
 
-- 📅 **Intelligent Productivity Assistant** - Full-stack Next.js app with AI-powered scheduling algorithms and calendar integrations
+- 📅 **Intelligent Productivity Assistant** - Full-stack Next.js app with scheduling algorithms and calendar integrations to help users schedule tasks efficiently
 - 🎓 **Teaching** - Helping students learn how to program and learn the basics of coding
 
 ---
@@ -44,8 +44,8 @@ Tools          Git/GitHub • Docker • WordPress • Postman • JIRA
 
 ## 💼 Experience Highlights
 
-- 🔧 Built **custom WordPress plugins** for a financial consulting company
-- 📊 Developed **geospatial e-commerce platform** visualizing 1000+ orders with routing optimization
+- 🔧 Built **custom WordPress plugins** for a financial consulting startup
+- 📊 Developed a **geospatial e-commerce platform** visualizing 1000+ orders with routing optimization
 
 ---
 
@@ -53,7 +53,7 @@ Tools          Git/GitHub • Docker • WordPress • Postman • JIRA
 
 <div align="center">
 
-I'm always interested in collaborating on innovative projects, discussing emerging technologies, or exploring new opportunities. Please feel free to reach out!
+I'm always interested in collaborating on projects, discussing emerging technologies, or exploring new opportunities. Please feel free to reach out!
 
 </div>
   
