@@ -24,13 +24,6 @@ Outside of class, I enjoy building web applications and solving real-world probl
 
 ---
 
-## 🔭 What I'm Working On
-
-- 📅 **Intelligent Productivity Assistant** - Full-stack Next.js app with scheduling algorithms and calendar integrations to help users schedule tasks efficiently
-- 🎓 **Teaching** - Helping students learn how to program and learn the basics of coding
-
----
-
 ## 🛠️ Technology Stack
 ```text
 Languages      Python • Java • JavaScript • TypeScript • C/C++ • SQL • OCaml
@@ -42,19 +35,6 @@ Tools          Git/GitHub • Docker • WordPress • Postman • JIRA
 
 ---
 
-## 💼 Experience Highlights
 
-- 🔧 Built **custom WordPress plugins** for a financial consulting startup
-- 📊 Developed a **geospatial e-commerce platform** visualizing 1000+ orders with routing optimization
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-I'm always interested in collaborating on projects, discussing emerging technologies, or exploring new opportunities. Please feel free to reach out!
-
-</div>
   
 
